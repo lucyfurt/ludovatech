@@ -38,7 +38,7 @@ Quer tirar uma ideia do papel ou otimizar processos na sua empresa?
 Entre em contato conosco:
 
 - 📧 ludovatech40@gmail.com  
-- 🌐 [www.ludovatech.com](https://ludovatech.vercel.app/)
+- 🌐 [LUDOVATECH](https://ludovatech.vercel.app/)
 
 ---
 
